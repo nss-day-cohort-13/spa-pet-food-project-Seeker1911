@@ -1,0 +1,264 @@
+{
+  "brands": [
+    {
+      "name": "Purrina",
+      "types": [
+        {
+          "type": "Siamese",
+          "volumes": [
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            }
+          ]
+        },
+        {
+          "type": "Bengal",
+          "volumes": [
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            }
+          ]
+        },
+
+        {
+          "type": "Showshoe",
+          "volumes": [
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            }
+          ]
+        },
+
+        {
+          "type": "Munchkin",
+          "volumes": [
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "20oz",
+              "price": 19.99
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Meow Meal",
+      "types": [
+        {
+          "type": "Manx",
+          "volumes": [
+            {
+              "name": "Kittin",
+              "volume": "24oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kittin",
+              "volume": "48oz",
+              "price": 34.99
+            },
+
+            {
+              "name": "Adult",
+              "volume": "28oz",
+              "price": 22.99
+            },
+
+            {
+              "name": "Adult",
+              "volume": "56oz",
+              "price": 40.99
+            }
+          ]
+        },
+        {
+          "type": "Egyption Mau",
+          "volumes": [
+
+            {
+              "name": "Kittin",
+              "volume": "24oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kittin",
+              "volume": "48oz",
+              "price": 34.99
+            },
+
+            {
+              "name": "Adult",
+              "volume": "28oz",
+              "price": 22.99
+            },
+
+            {
+              "name": "Adult",
+              "volume": "56oz",
+              "price": 40.99
+            }
+          ]
+        },
+
+        {
+          "type": "Himalayan",
+          "volumes": [
+
+            {
+              "name": "Kittin",
+              "volume": "24oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kittin",
+              "volume": "48oz",
+              "price": 34.99
+            },
+
+            {
+              "name": "Adult",
+              "volume": "28oz",
+              "price": 22.99
+            },
+
+            {
+              "name": "Adult",
+              "volume": "56oz",
+              "price": 40.99
+            }
+          ]
+        },
+        {
+          "type": "Rag Doll",
+          "volumes": [
+
+            {
+              "name": "Kittin",
+              "volume": "24oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kittin",
+              "volume": "48oz",
+              "price": 34.99
+            },
+
+            {
+              "name": "Adult",
+              "volume": "28oz",
+              "price": 22.99
+            },
+
+            {
+              "name": "Adult",
+              "volume": "56oz",
+              "price": 40.99
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

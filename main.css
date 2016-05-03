@@ -1,0 +1,28 @@
+#header {
+  border: 2px solid slategrey;
+  display: block;
+  text-align: center;
+}
+
+.card {
+ border: 1px solid black;
+ display: inline-block;
+ padding: 1em;
+}
+.name {
+  font-size: 1.5em;
+
+}
+
+.type {
+  color: blue;
+}
+
+.volume {
+  
+}
+
+.price {
+  margin-bottom: 20px;
+}
+
