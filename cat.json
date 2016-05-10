@@ -13,26 +13,26 @@
             },
             {
               "name": "Kittin",
+              "volume": "24oz",
+              "price": 24.99
+            },
+
+            {
+              "name": "Kittin",
+              "volume": "48oz",
+              "price": 44.99
+            },
+
+            {
+              "name": "Adult",
               "volume": "20oz",
               "price": 19.99
             },
 
             {
-              "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
-            },
-
-            {
-              "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
-            },
-
-            {
-              "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
+              "name": "Adult",
+              "volume": "24oz",
+              "price": 24.99
             }
           ]
         },
@@ -47,26 +47,26 @@
             },
             {
               "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
+              "volume": "28oz",
+              "price": 25.99
             },
 
             {
-              "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
+              "name": "Adult",
+              "volume": "28oz",
+              "price": 28.99
             },
 
             {
-              "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
+              "name": "Adult",
+              "volume": "32oz",
+              "price": 35.99
             },
 
             {
-              "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
+              "name": "Adult",
+              "volume": "48oz",
+              "price": 45.99
             }
           ]
         },
@@ -81,26 +81,26 @@
             },
             {
               "name": "Kittin",
+              "volume": "28oz",
+              "price": 24.99
+            },
+
+            {
+              "name": "Adult",
               "volume": "20oz",
               "price": 19.99
             },
 
             {
-              "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
+              "name": "Adult",
+              "volume": "28oz",
+              "price": 24.99
             },
 
             {
-              "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
-            },
-
-            {
-              "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
+              "name": "Adult",
+              "volume": "48oz",
+              "price": 44.99
             }
           ]
         },
@@ -117,26 +117,26 @@
 
             {
               "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
+              "volume": "32oz",
+              "price": 29.99
             },
 
             {
               "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
+              "volume": "48oz",
+              "price": 44.99
             },
 
             {
-              "name": "Kittin",
+              "name": "Adult",
               "volume": "20oz",
-              "price": 19.99
+              "price": 24.99
             },
 
             {
-              "name": "Kittin",
-              "volume": "20oz",
-              "price": 19.99
+              "name": "Adult",
+              "volume": "48oz",
+              "price": 44.99
             }
           ]
         }
