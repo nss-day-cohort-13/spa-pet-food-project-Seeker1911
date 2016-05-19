@@ -1,18 +1,18 @@
-var dogFood = document.getElementById('dogFood');
-dogFood.innerHTML = '<h1>Dog Food</h1>';
-var request = new XMLHttpRequest();
-request.addEventListener("load", loadFood);
-request.open("GET", "brands.json");
-request.send();
+var catFood = document.getElementById('catFood');
+catFood.innerHTML = '<h1>Cat Food</h1>';
+var catRequest = new XMLHttpRequest();
+catRequest.addEventListener("load", loadFood);
+catRequest.open("GET", "cat.json");
+catRequest.send();
 
 function loadFood() {
   var data = JSON.parse(this.responseText); //the string of json returned
   console.log("data", data);
-  printFood(data.brands);
+  catsFood(data.brands);
 }
 
-function printFood(data){
-  var matter = "";
+function catsFood(data){
+  var matter = '';
   for (var i = 0; i<data.length; i++) {
     var v = data[i];
     console.log("v brands", v);
@@ -20,12 +20,12 @@ function printFood(data){
     for (var j=0; j < v.types.length; j++) {
       matter += '<p class = "type">' + v.types[j].type + '</P>';
       for (var k=0; k < v.types.length; k++) {
-      matter += '<p class = "volume">' + v.types[j].volumes[k].name + '</P>' + '<p class = "volume">' + '</p>' +  '<p class = "price">' + v.types[j].volumes[k].price + '</P>';
+      matter += '<p class = "volume">' + v.types[j].volumes[k].name + '</P>'  + '<p class = "vol">' + v.types[j].volumes[k].volume + '</p>' + '<p class = "price">' + v.types[j].volumes[k].price + '</P>';
       }
     }
     matter += '</div>';
   }
 
- dogFood.innerHTML += matter;
+ catFood.innerHTML += matter;
 }
 

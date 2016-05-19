@@ -1,0 +1,43 @@
+#header {
+  border: 2px solid slategrey;
+  display: block;
+  text-align: center;
+  background-color: lightgrey;
+  font-size: 1.5em;
+}
+
+#dogFood, #catFood {
+  border: 2px solid slategrey;
+}
+.card {
+  /*border: 1px solid black;*/
+  display: inline-block;
+  padding: 1em;
+  margin-left: 50px;
+}
+
+.name {
+  font-size: 1.5em;
+  margin-top: 0;
+}
+
+.type {
+  color: blue;
+  margin-bottom: 3px;
+  margin-top: 0;
+}
+
+.volume {
+  margin-bottom: 3px;
+  margin-top: 0;
+}
+
+.price {
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+
+.vol {
+  margin-bottom: 3px;
+  margin-top: 0;
+}
